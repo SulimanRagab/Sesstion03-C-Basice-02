@@ -56,3 +56,17 @@
 //Build the same sentence again, but using string.Format().
 //Console.WriteLine("Book: {0}, pages: {1}",title,pages);
 #endregion
+
+#region Q08
+//Requirements
+//Given int pages = 464;, write an if / else statement that prints "Long Book" if pages is greater than
+//300, otherwise prints "Short Book".
+//if(pages > 300)
+//{
+//    Console.WriteLine("logn Book");
+//}
+//else
+//{
+//    Console.WriteLine("short Book");
+//}
+#endregion
