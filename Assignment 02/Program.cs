@@ -36,3 +36,11 @@
 //S1.Replace("BookList","Library");
 //Console.WriteLine(S1);
 #endregion
+
+#region Q05
+//Requirements
+//Given string title = "Clean Code"; and int pages = 464;, build the sentence "Book: Clean Code,
+//Pages: 464" using the + operator.
+//int pages = 464;
+//Console.WriteLine("Book:" + title + ", pages:" + pages);
+#endregion
