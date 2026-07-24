@@ -15,5 +15,18 @@
 //to check if they point to the same object in memory.
 //string title01 = "Clean Code";
 //string title02 = "Clean Code";
-//Console.WriteLine(object.ReferenceEquals(title01,title02));
+//Console.WriteLine(object.ReferenceEquals(title01, title02));
 #endregion
+
+#region Q03
+//Requirements
+//Create a StringBuilder, Append() the text "Book List", then Append() " - Updated" onto the same
+//object.Print the final result.
+//using System.Drawing;
+//using System.Text;
+//StringBuilder S1 = new StringBuilder();
+//S1.Append("BookList");
+//S1.Append(" - Updated");
+//Console.WriteLine(S1);
+#endregion
+
