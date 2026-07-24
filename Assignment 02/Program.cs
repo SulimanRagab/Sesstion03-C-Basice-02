@@ -113,3 +113,14 @@
 //Console.WriteLine(sizeLabel);
 // جزء ternary operator متشرحش ف السيشن بس انا عارفو لاني  اتعاملت معاه ف لغه تانيه ف فاهم فكرة السؤال 
 #endregion
+
+#region Q12
+//Requirements
+//Given string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };, use a for loop
+//to print each book with its position number, like 1.Clean Code.
+//string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+//for (int i = 0; i < books.Length; i++)
+//{
+//    Console.WriteLine($"{i+1}.{books[i]}");
+//}
+#endregion
