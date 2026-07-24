@@ -145,3 +145,10 @@
 //} while (i < 3);
 #endregion
 
+#region Q15
+//Using the same books array, use a foreach loop to print every book title.
+//foreach (string book in books)
+//{
+//    Console.WriteLine(book);
+//}
+#endregion
