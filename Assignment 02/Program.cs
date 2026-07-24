@@ -118,8 +118,8 @@
 //Requirements
 //Given string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };, use a for loop
 //to print each book with its position number, like 1.Clean Code.
-string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
-//for (int i = 0; i < books.Length; i++)
+using System.Runtime.Intrinsics.X86;
+string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };//for (int i = 0; i < books.Length; i++)
 //{
 //    Console.WriteLine($"{i+1}.{books[i]}");
 //}
@@ -177,4 +177,21 @@ string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
 //    }
 //    Console.WriteLine(books[i]);
 //}
+#endregion
+
+#region Q18
+//Write a method PrintFirstBook() that prints the first book in the books array. If the array is empty,
+//use return to exit the method early instead of printing anything.
+//void PrintFirstBook()
+//{
+//    if (books.Length == 0)
+//    {
+//        return;
+//    }
+//    else
+//    {
+//        Console.WriteLine(books[0]);
+//    }
+//}
+// حاولت احل السؤال بس  معرفتش لأن لسه الفانكنش او الميثود يعني ما تشرحتش 
 #endregion
