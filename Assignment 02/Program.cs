@@ -50,3 +50,9 @@
 //Build the same sentence as above, but using string interpolation ($"...")
 //Console.WriteLine($"Book: {title}, pages: {pages}");
 #endregion
+
+#region Q07
+//Requirements
+//Build the same sentence again, but using string.Format().
+//Console.WriteLine("Book: {0}, pages: {1}",title,pages);
+#endregion
