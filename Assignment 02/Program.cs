@@ -118,7 +118,7 @@
 //Requirements
 //Given string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };, use a for loop
 //to print each book with its position number, like 1.Clean Code.
-//string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
 //for (int i = 0; i < books.Length; i++)
 //{
 //    Console.WriteLine($"{i+1}.{books[i]}");
@@ -161,6 +161,19 @@
 //    if (books[i] == "Refactoring")
 //    {
 //        break;
+//    }
+//    Console.WriteLine(books[i]);
+//}
+#endregion
+
+#region Q17
+//Using the same books array, print every title except "The Pragmatic Programmer" (skip it with
+//continue, don't stop the loop).
+//for (int i = 0; i <books.Length; i++)
+//{
+//    if (books[i] == "The Pragmatic Programmer")
+//    {
+//        continue;
 //    }
 //    Console.WriteLine(books[i]);
 //}
