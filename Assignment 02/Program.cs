@@ -44,3 +44,9 @@
 //int pages = 464;
 //Console.WriteLine("Book:" + title + ", pages:" + pages);
 #endregion
+
+#region Q06
+//Requirements
+//Build the same sentence as above, but using string interpolation ($"...")
+//Console.WriteLine($"Book: {title}, pages: {pages}");
+#endregion
