@@ -134,3 +134,14 @@
 //    i++;
 //}
 #endregion
+
+#region Q14
+//Write a do-while loop that prints "Checking book..." exactly 3 times
+//int i = 0;
+//do
+//{
+//    Console.WriteLine("Checking book...");
+//    i++;
+//} while (i < 3);
+#endregion
+
