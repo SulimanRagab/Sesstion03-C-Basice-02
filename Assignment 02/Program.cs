@@ -30,3 +30,9 @@
 //Console.WriteLine(S1);
 #endregion
 
+#region Q04
+//Requirements
+//Using the StringBuilder from the question above, use Replace() to change "Book List" into "Library".Print the result.
+//S1.Replace("BookList","Library");
+//Console.WriteLine(S1);
+#endregion
